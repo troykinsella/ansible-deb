@@ -1,2 +1,2 @@
 ---
-deb_package_dest: /tmp
+deb_package_dest: /tmp/package.deb

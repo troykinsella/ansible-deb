@@ -6,7 +6,7 @@ Download and install deb packages.
 Role Variables
 --------------
 
-* deb_package_dest: Optional. The local directory into which the deb will be downloaded. Default: /tmp.
+* deb_package_dest: Optional. The local file path into which the deb will be downloaded. Default: /tmp.
 * deb_package_url: The URL at which the deb can be downloaded.
 
 Example Playbook
