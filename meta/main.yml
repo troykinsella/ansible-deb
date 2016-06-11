@@ -1,0 +1,17 @@
+dependencies: []
+galaxy_info:
+  author: Troy Kinsella
+  description: Download and install deb packages
+  license: MIT
+  min_ansible_version: 1.9
+  github_branch: master
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  galaxy_tags:
+  - packaging
+  - deb
